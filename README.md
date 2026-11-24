@@ -29,4 +29,4 @@ Technical notes and illustrative patterns on [savinaykumar.com](https://savinayk
 
 ## Let's connect
 
-[Website](https://savinaykumar.com) · [GitHub](https://github.com/savinaykr) · [LinkedIn](https://www.linkedin.com/in/savinay-kr) · [Email](mailto:savinaykumar@outlook.com) · [X](https://x.com/SavinayKr)
+[Website](https://savinaykumar.com) · [GitHub](https://github.com/savinaykr) · [LinkedIn](https://www.linkedin.com/in/savinaykr) · [Email](mailto:savinaykumar@outlook.com) · [X](https://x.com/savinaykr)
