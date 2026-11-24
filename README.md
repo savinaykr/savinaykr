@@ -1,70 +1,32 @@
-<div align="center">
+# Hi, I'm Savinay
 
-# Hi, I'm Savinay 👋
+**Senior AI Engineer at Commonwealth Bank of Australia**\
+Applied AI & Agentic Systems · LLMs, RAG & Distributed Systems\
+Bengaluru, India
 
-**I build production AI systems and the platforms they run on.**
+I build customer-facing AI applications and the services that support them. My work combines conversational workflows, retrieval, guardrails, and evaluation with backend engineering and product delivery. I've worked across banking, telecom, connected vehicles, and products I've helped build as a founder.
 
-AI Platform Engineer & Tech Lead · Bengaluru, India
+## Selected work
 
-[![Website](https://img.shields.io/badge/🌐_codesark.me-visit_my_site-2ea44f?style=for-the-badge)](https://codesark.me)
+- **Commonwealth Bank of Australia:** Working on Companion, the bank's AI agent. Led the multi-step Business Overdraft application and helped introduce it in a selected-customer pilot. Develop credit-limit-increase workflows across concierge and product agents, and contributed guardrail performance improvements from 20 seconds to 3 seconds.
+- **Neosenth / ViHi:** Co-founded and led engineering for a mobile marketplace with 15+ Go microservices, Python AI services, Gemini features, and pgvector-based feed ranking. Took full ownership of infrastructure across AWS and GCP, including AI/ML workloads on GCP, Docker/Kubernetes deployments, employee authentication, SSO, and VPN access to internal resources.
+- **Zeliot:** Led architecture and delivery for 6+ engineers. Improved fuel-monitoring reliability during a rollout targeting 50,000 vehicles by parallelizing Kafka processing and replacing full-day database scans with bounded queues. Initiated and delivered a company-wide VPN using WireGuard and OpenVPN for access to development and production resources.
 
-</div>
+## Core technologies
 
-## 🚀 About Me
+**Applied AI:** Python, multi-agent workflows, RAG, guardrails, LLM evaluation, Gemini, pgvector, AI-assisted development with MCP\
+**Backend and data:** Go, TypeScript, Node.js, Temporal, ConnectRPC/gRPC, Kafka, NATS JetStream, PostgreSQL, Redis\
+**Infrastructure and access:** AWS, GCP, Docker, Kubernetes, Terraform, FluxCD, SSO, VPN, WireGuard, OpenVPN
 
-- 🤖 I build AI platforms end to end: production RAG, self-hosted LLM inference, tool-calling agents, and automated evals wired into CI
-- ⚙️ Running on platforms I build myself: Go event-driven microservices, Kubernetes, and Terraform
-- 💬 Reach me at [codesark.me@gmail.com](mailto:codesark.me@gmail.com)
-- ✨ Everything else about me lives at **[codesark.me](https://codesark.me)**
+## Writing
 
-## ✍️ Writing
+Technical notes and illustrative patterns on [savinaykumar.com](https://savinaykumar.com):
 
-I write about running LLMs in production at [codesark.me](https://codesark.me):
+- [Reliable Tool-Calling Agents with LangGraph and MCP](https://savinaykumar.com/blog/tool-calling-agents-langgraph-mcp)
+- [LLM Evals as a CI Gate](https://savinaykumar.com/blog/llm-evals-as-a-ci-gate)
+- [Self-Hosting LLM Inference with vLLM](https://savinaykumar.com/blog/self-hosting-llm-inference-vllm)
+- [RAG in Production](https://savinaykumar.com/blog/rag-in-production)
 
-- [Reliable Tool-Calling Agents with LangGraph and MCP](https://codesark.me/blog/tool-calling-agents-langgraph-mcp)
-- [Treating LLM Evals Like Tests: RAGAS and Langfuse as a CI Gate](https://codesark.me/blog/llm-evals-as-a-ci-gate)
-- [Self-Hosting LLM Inference with vLLM (and When Not To)](https://codesark.me/blog/self-hosting-llm-inference-vllm)
-- [RAG in Production: Chunking, Hybrid Search, and Reranking](https://codesark.me/blog/rag-in-production)
+## Let's connect
 
-## 🛠️ Tech I Work With
-
-**AI / LLM Platform**
-
-![RAG](https://img.shields.io/badge/RAG-7C5CE0?style=flat-square)
-![vLLM](https://img.shields.io/badge/vLLM-2596BE?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-E8734A?style=flat-square)
-![RAGAS](https://img.shields.io/badge/Evals_·_RAGAS-D6519F?style=flat-square)
-![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat-square)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-**Backend & Platform**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Infra & Ops**
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
----
-
-<div align="center">
-
-**[codesark.me](https://codesark.me)** · [codesark.me@gmail.com](mailto:codesark.me@gmail.com) · [LinkedIn](https://www.linkedin.com/in/codesark) · [X](https://x.com/codesark)
-
-</div>
+[Website](https://savinaykumar.com) · [GitHub](https://github.com/savinaykr) · [LinkedIn](https://www.linkedin.com/in/savinaykr) · [Email](mailto:savinaykumar@outlook.com) · [X](https://x.com/savinaykr)
